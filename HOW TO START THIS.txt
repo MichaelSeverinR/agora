@@ -1,0 +1,18 @@
+Backend:
+
+In Developer-PowerShell mit "cd .\API\" in den API Ordner wechseln
+Dann mit "dotnet ef database update" die Datenbank erstellen
+Nun kann der Backend-Server gestartet werden
+
+
+
+Frontend:
+
+UI Ordner in VS Code öffnen
+Str. + ö die Konsole öffnen
+Mit dem Befehl "ionic serve" die Anwendung starten
+Im Browser den Darkmode einstellen
+
+
+
+
